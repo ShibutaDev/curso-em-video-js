@@ -44,3 +44,35 @@ Além disso, foi demonstrado como modificar páginas através da ferramenta **In
 ---
 
 ## Aula 3 – Dando os primeiros passos  
+
+O professor inicia a aula com algumas perguntas:  
+
+### **Q01 - Você sabe qual empresa criou o JavaScript?**  
+O **JavaScript** foi criado pela **Netscape**. Inicialmente, seu nome era **Mocha**, e ele estava sendo desenvolvido por **Brendan Eich** em **1995**.  
+
+### **Q02 - Java e JavaScript possuem alguma relação?**  
+A única relação entre elas é que ambas derivam da linguagem **C**, o que resulta em algumas semelhanças na estrutura, como o uso do `if`. O nome **JavaScript** foi escolhido por uma estratégia de marketing da **Netscape**, já que **Java** estava muito popular na época e era considerada "a linguagem do futuro".  
+
+### **Q03 - O que ECMAScript tem a ver com JavaScript?**  
+O **ECMAScript** é a versão padronizada do JavaScript pela empresa **ECMA**. Essa padronização se tornou necessária quando a **Microsoft**, ao lançar o **Internet Explorer**, criou a linguagem **JScript**, que era praticamente uma cópia do JavaScript com algumas modificações.  
+
+---
+
+## Orientações para um estudo eficiente  
+
+Para obter o melhor aprendizado, foi recomendada a seguinte abordagem:  
+
+- Assistir às aulas;  
+- Anotar pontos importantes e de interesse;  
+- Participar de fóruns;  
+- Estudar em grupo e tentar ensinar outras pessoas sobre o que foi aprendido;  
+- Ler livros sobre o conteúdo.  
+
+### **Livros recomendados:**  
+- *JavaScript: O Guia Definitivo* – **David Flanagan**  
+- *JavaScript: Guia do Programador* – **Mauricio Samy Silva**  
+- Guias de referência da **[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** e **[ECMA](https://ecma-international.org/publications-and-standards/standards/ecma-262/)**  
+  > *Obs.: Esses guias são mais técnicos, longos e complexos.*  
+
+
+
