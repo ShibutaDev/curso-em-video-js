@@ -72,7 +72,45 @@ Para obter o melhor aprendizado, foi recomendada a seguinte abordagem:
 - *JavaScript: O Guia Definitivo* – **David Flanagan**  
 - *JavaScript: Guia do Programador* – **Mauricio Samy Silva**  
 - Guias de referência da **[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** e **[ECMA](https://ecma-international.org/publications-and-standards/standards/ecma-262/)**  
-  > *Obs.: Esses guias são mais técnicos, longos e complexos.*  
+  > *Obs.: Esses guias são mais técnicos, longos e complexos.*
+
+---
+
+## Aula 4 – Criando o seu primeiro script  
+
+O professor inicia a aula com algumas perguntas:  
+
+### **Q01 - Quais livros/documentos foram recomendados?**  
+Os livros recomendados foram:  
+
+- **JavaScript: O Guia Definitivo**, de *David Flanagan*  
+- **JavaScript: Guia do Programador**, de *Mauricio Samy Silva*  
+- Guias de referência do **Mozilla** e do **ECMA**  
+
+### **Q02 - Para aprender JavaScript, é necessário saber inglês?**  
+O inglês é muito importante, pois grande parte dos artigos, manuais e guias estão nesse idioma. Embora seja possível aprender sem saber inglês, em algum momento a falta do idioma pode se tornar uma barreira para a evolução.  
+
+### **Q03 - Quais dicas foram dadas para quem quer estudar?**  
+As dicas foram:  
+
+- Assistir às aulas;  
+- Anotar pontos importantes e de interesse;  
+- Participar de fóruns;  
+- Estudar em grupo e tentar ensinar outras pessoas sobre o que foi aprendido;  
+- Ler livros sobre o conteúdo.  
+
+---
+
+Foi feita uma introdução básica sobre **HTML** e **CSS** para aqueles que não têm conhecimento prévio. Foram abordadas informações sobre as tags `<head>` e `<body>`, além da explicação sobre onde inserir os blocos `<style>` e `<script>` para, então, começar a usar JavaScript.  
+
+Foram apresentados três comandos básicos em **JavaScript**:  
+
+```html
+<script>
+    window.alert('Minha primeira mensagem');
+    window.confirm('Está gostando de JavaScript?');
+    window.prompt('Qual é o seu nome?');
+</script> 
 
 
 
